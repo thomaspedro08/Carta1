@@ -1,5 +1,5 @@
-
-  <html lang="pt-br">
+<!DOCTYPE html>
+<html lang="pt-br">
       
 <head>
 	<title>Carta</title>
@@ -41,9 +41,7 @@
 			height:70px;
 			background-color:#ffcbdb;  
 
-
-
-	</style>
+</style>
 </head>
 <body>
 	<h1 style="font-size:30px"><div id="cx1">Local, data</div></h1>
